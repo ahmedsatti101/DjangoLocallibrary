@@ -16,3 +16,13 @@ Content:
   - [Testing the website framework](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/skeleton_website#testing_the_website_framework)
   - [Running the website](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/skeleton_website#running_the_website)
 
+[3 - Create models to represent your application's data](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Models)
+
+  - [Designing the LocalLibrary models](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Models#designing_the_locallibrary_models)
+  - [Model definition](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Models#model_primer)
+  - [Defining the LocalLibrary Models](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Models#defining_the_locallibrary_models)
+    - [Genre model](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Models#genre_model)
+    - [Book model](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Models#book_model)
+    - [BookInstance model](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Models#bookinstance_model)
+    - [Author model](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Models#author_model)
+  - [Re-run the database migrations](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Models#re-run_the_database_migrations)
