@@ -36,3 +36,10 @@ Content:
      - [Configure list views](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Admin_site#configure_list_views)
      - [Add list filters](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Admin_site#add_list_filters)
      - [Organize detail view layout](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Admin_site#organize_detail_view_layout)
+
+5 - [Create home page](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Home_page): Create views to retrieve specific data in response to different requests, and templates to render the data as HTML to be displayed in the browser.
+  - [Defining the resource URLs](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Home_page#defining_the_resource_urls)
+    - [Creating the index page](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Home_page#creating_the_index_page)
+    - [URL mapping](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Home_page#url_mapping)
+    - [View (function-based)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Home_page#view_function-based)
+    - [Template](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Home_page#template)
