@@ -26,3 +26,13 @@ Content:
     - [BookInstance model](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Models#bookinstance_model)
     - [Author model](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Models#author_model)
   - [Re-run the database migrations](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Models#re-run_the_database_migrations)
+
+  [4 - Use the Django admin site to populate your site's data](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Admin_site)
+  - [Registering models](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Admin_site#registering_models)
+  - [Creating a superuser](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Admin_site#creating_a_superuser)
+  - [Logging in and using the site](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Admin_site#logging_in_and_using_the_site)
+  - [Advanced configuration](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Admin_site#advanced_configuration)
+     - [Register a ModelAdmin class](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Admin_site#register_a_modeladmin_class)
+     - [Configure list views](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Admin_site#configure_list_views)
+     - [Add list filters](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Admin_site#add_list_filters)
+     - [Organize detail view layout](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Admin_site#organize_detail_view_layout)
