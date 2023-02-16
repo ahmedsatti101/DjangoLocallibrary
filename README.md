@@ -43,3 +43,13 @@ Content:
     - [URL mapping](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Home_page#url_mapping)
     - [View (function-based)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Home_page#view_function-based)
     - [Template](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Home_page#template)
+
+6 - Create mappers to associate different URL patterns with specific views.
+
+7 - Add user authorization and sessions to control site behavior and access. Work with forms.
+
+8 - Write test code for your app.
+
+9 - Use Django's security effectively.
+
+10 - Deploy your application to production.
