@@ -28,7 +28,7 @@ SECRET_KEY = os.environ.get('django-insecure-9pegvpn_()h!qfz*#$=oy9159*m(a8h^^gj
 #DEBUG = True
 DEBUG = os.environ.get('DJANGO_DEBUG', '') != 'False'
 
-ALLOWED_HOSTS = ['web-production-3640.up.railway.app']
+ALLOWED_HOSTS = ['web-production-3640.up.railway.app', 'http://127.0.0.1:8000/']
 
 
 # Application definition
