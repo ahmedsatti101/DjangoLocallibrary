@@ -28,7 +28,7 @@ SECRET_KEY = os.environ.get('django-insecure-9pegvpn_()h!qfz*#$=oy9159*m(a8h^^gj
 #DEBUG = True
 DEBUG = os.environ.get('DJANGO_DEBUG', '') != 'False'
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['web-production-3640.up.railway.app']
 
 
 # Application definition
@@ -140,3 +140,5 @@ EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
 
 db_from_env = dj_database_url.config(conn_max_age=500)
 DATABASES['default'].update(db_from_env)
+
+CSRF_TRUSTED_ORIGINS = ['https://web-production-3640.up.railway.app']
